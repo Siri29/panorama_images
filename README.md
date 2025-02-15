@@ -56,7 +56,4 @@ License
 
 This project is open-source.
 
-Author
-
-Developed by Siri29
 
